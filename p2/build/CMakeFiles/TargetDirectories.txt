@@ -1,3 +1,0 @@
-E:/GoodGoodStudy/java/jvm-project/p2/build/CMakeFiles/p2.dir
-E:/GoodGoodStudy/java/jvm-project/p2/build/CMakeFiles/edit_cache.dir
-E:/GoodGoodStudy/java/jvm-project/p2/build/CMakeFiles/rebuild_cache.dir
