@@ -1,6 +1,7 @@
 #include "stdio.h"
 #include "stdlib.h"
 
+
 int addx(int x, int y);
 
 // 函数指针
@@ -20,7 +21,7 @@ int main()
 
     addy = &addx;
 
-    printf("addy ===>%p\n",addy);
+    printf("addy ===>%p\n", addy);
 
     printf("====>%d\n", addy(x, y));
 
